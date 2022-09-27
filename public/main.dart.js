@@ -22217,7 +22217,7 @@ return}if(typeof window=="object")return
 if(typeof print=="function"){print(a)
 return}throw"Unable to print message: "+String(a)},
 aoz(){var s,r=$.wn()
-A.a(r.vC$,"options").nU$="http://localhost:8080/api"
+A.a(r.vC$,"options").nU$="https://flutter-web-admin-wal.herokuapp.com/api"
 r=A.a(r.vC$,"options")
 s=A.ca(J.aH($.t7.aO().a,"token"))
 r.sOp(0,A.az(["x-token",s==null?"":s],t.N,t.z))},

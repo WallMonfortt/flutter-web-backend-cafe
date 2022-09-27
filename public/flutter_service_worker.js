@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "12481ed665e76f12267e9aff8cb08c2c",
-"index.html": "558b4c7d15087b6d0ed66c37983a7f73",
-"/": "558b4c7d15087b6d0ed66c37983a7f73",
-"main.dart.js": "9ac282c7bb8d240ca45a84bfa5c4b015",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"index.html": "2043bd73b8b6a072b8d1df29051dd3de",
+"/": "2043bd73b8b6a072b8d1df29051dd3de",
+"main.dart.js": "547a3fef0633e9bd1987d055a97e9893",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -22,11 +21,7 @@ const RESOURCES = {
 "assets/assets/twitter-white-logo.png": "659038677a13536aeb6e77d706764d67",
 "assets/assets/no-image.jpg": "a210d1794c8aeaf9762d5abde0ae360b",
 "assets/assets/twitter-bg.png": "6aa5afbc56e530e0fd7676ff3fdf81b4",
-"assets/assets/loader.gif": "74b84c61dc457547ce5c674e0ef82c19",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/loader.gif": "74b84c61dc457547ce5c674e0ef82c19"
 };
 
 // The application shell files that are downloaded before a service worker can
